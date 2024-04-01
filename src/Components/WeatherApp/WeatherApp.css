@@ -1,7 +1,6 @@
 .img{
     width: 22px;
-    /* display: block;
-    margin:auto; */
+    
     
 }
 .container{
@@ -12,10 +11,7 @@
     border-radius: 12px;
     background-image: linear-gradient(180deg,#1075a7 0%, #1075a7 100%); 
 }
-/* .inputCity{
-    margin:auto;
-    display: block;
-} */
+
 .top-bar{
     display: flex;
     justify-content: center;
@@ -64,11 +60,7 @@
     margin: auto;
 }
 
-/* .weather-img{
-    display: flex;
-    justify-content: center;
-    
-} */
+
 .weather-temp{
     display: flex;
     justify-content: center;
